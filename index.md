@@ -1,4 +1,4 @@
-Advanced Tilt Maze
+Smartphone Controlled Magnetic Tilt Maze
 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
