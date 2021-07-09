@@ -21,7 +21,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was designing both the eletronics and the physical components of my maze. I realised that I wanted the interior of the maze to be more of the focus of the project, compared to the control scheme. Therefore I decided to add various components, such as magnets, that would change how players needed to move. They couldn't just focus on the aspect of moving the phone but also on how the maze was affecting the ball. In the same way, I realized that I wanted to have some interior parts of my maze move. I realized that the mini servos that had already been provided to move the maze itself could be very useful. I figured out the basic coding for the mini servos and linked them up to the ESP 32. Next week I hope to begin to construct the maze itself, considering that I now have some of the cardboard I need. 
 
-![Inital Sketch](https://mail.google.com/mail/u/0?ui=2&ik=4f6a07bca0&attid=0.1.1&permmsgid=msg-f:1704826373810246746&th=17a8c28deead545a&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ-5wt3XKow7zcYNC5nzL7JGz1MHNKSyFHzqTBimbZR68P19Ge9NlNRd6KQwTOQoT09PwxKkcL26KC00lOfXYXcme96qpWexdry1zOy_ImqI3HoWebm66-1U4x8&disp=emb)
+! [Inital Sketch](https://mail.google.com/mail/u/0?ui=2&ik=4f6a07bca0&attid=0.1.1&permmsgid=msg-f:1704826373810246746&th=17a8c28deead545a&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ-5wt3XKow7zcYNC5nzL7JGz1MHNKSyFHzqTBimbZR68P19Ge9NlNRd6KQwTOQoT09PwxKkcL26KC00lOfXYXcme96qpWexdry1zOy_ImqI3HoWebm66-1U4x8&disp=emb)
 
 ```
 // very basic sample code to move the servos
