@@ -22,7 +22,11 @@ My first milestone was designing both the eletronics and the physical components
 
 [![First Milestone][![Smartphone Controlled Magnetic Tilt Maze Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1625855440/video_to_markdown/images/youtube--WQiFSGz7FkA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WQiFSGz7FkA "Smartphone Controlled Magnetic Tilt Maze Milestone 1"){:target="_blank" rel="noopener"}
 
+
+
 ![Inital Sketch](IMG-0544.jpg)
+
+
 
 ```
 // very basic sample code to move the servos
